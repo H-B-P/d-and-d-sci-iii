@@ -2,7 +2,7 @@ Pyromancer A will be attacking Vitamancer territory from Pyromancer territory.
 Pyromancer B will be attacking Vitamancer territory from Pyromancer territory.
 Necromancer A will be attacking Cryomancer territory from Necromancer territory.
 Necromancer B will be attacking Vitamancer territory from Pyromancer territory.
-Necromancer A will be attacking Geomancer territory from Necromancer territory.
+Necromancer C will be attacking Geomancer territory from Necromancer territory.
 
 The Electromancer is indisposed.
 
