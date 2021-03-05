@@ -1,0 +1,11 @@
+Pyromancer A will be attacking Vitamancer territory from Pyromancer territory.
+Pyromancer B will be attacking Vitamancer territory from Pyromancer territory.
+Necromancer A will be attacking Cryomancer territory from Necromancer territory.
+Necromancer B will be attacking Vitamancer territory from Pyromancer territory.
+Necromancer A will be attacking Geomancer territory from Necromancer territory.
+
+The Electromancer is indisposed.
+
+Available mages: Vitamancer A, Vitamancer B, Geomancer A, Geomancer B, Cryomancer.
+
+Attacks will be simultaneous, so each of our mages can only fight one of theirs.
